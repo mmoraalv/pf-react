@@ -1,5 +1,5 @@
 # Tienda Exactus
-Este es un proyecto de ecommerce básico que se utiliza para el curso de React. La aplicación permite ver una lista de productos de supermercado y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase.
+Este es un proyecto de ecommerce básico que se utiliza para el curso de React. La aplicación permite ver una lista de productos de computación y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase.
 
 ## Tecnologías utilizadas
 - React
