@@ -2,7 +2,6 @@ img {
     width: 50vw;
 }
 
-
 .contenedorItem {
     display: flex;
     flex-direction: column;
